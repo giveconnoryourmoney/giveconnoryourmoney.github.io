@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background: linear-gradient(to right, #232526,#414345);
+}
+
+body {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
